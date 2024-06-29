@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "hobby": ["reading", "gaming"],
+      "address": {
+        "street": "123 Main St",
+        "phone": "123-456-7890",
+        "zip": "12345"
+      }
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "phone": "234-567-8901",
+      "hobby": ["swimming", "painting"],
+      "address": {
+        "street": "456 Oak St",
+        "phone": "234-567-8901",
+        "zip": "23456"
+      }
+    },
+    {
+      "id": 3,
+      "username": "sam_wilson",
+      "email": "sam@example.com",
+      "phone": "345-678-9012",
+      "hobby": ["cycling", "hiking"],
+      "address": {
+        "street": "789 Pine St",
+        "phone": "345-678-9012",
+        "zip": "34567"
+      }
+    },
+    {
+      "id": 4,
+      "username": "lisa_brown",
+      "email": "lisa@example.com",
+      "phone": "456-789-0123",
+      "hobby": ["cooking", "traveling"],
+      "address": {
+        "street": "101 Maple St",
+        "phone": "456-789-0123",
+        "zip": "45678"
+      }
+    },
+    {
+      "id": 5,
+      "username": "mark_johnson",
+      "email": "mark@example.com",
+      "phone": "567-890-1234",
+      "hobby": ["photography", "gardening"],
+      "address": {
+        "street": "202 Birch St",
+        "phone": "567-890-1234",
+        "zip": "56789"
+      }
+    }
+  ]
+  
